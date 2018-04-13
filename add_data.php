@@ -37,7 +37,7 @@ if(isset($_POST['btn-save']))
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>TEST CRYD</title>
+<title>TEST CRUD</title>
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 <body>
